@@ -1,0 +1,18 @@
+JMeter Test Report
+
+Summary:
+Total requests: 1000
+Average response time: 500 ms
+Error percentage: 2%
+
+Detailed Table:
+Request Number | URL            | Response Time (ms) | Status Code
+1              | /api/endpoint  | 450                | 200
+2              | /api/endpoint  | 480                | 200
+3              | /api/endpoint  | 520                | 200
+...            | ...            | ...                | ...
+
+Error Report:
+Timeout errors: 5
+Server errors: 3
+...
