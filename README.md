@@ -3,12 +3,15 @@ ISO/IEC/IEEE 12207 - Systems and software engineering - Software life cycle proc
 
 
 DOC  - ISO/IEC/IEEE 29148:2011
+These documents align with the ISO/IEC/IEEE 29148:2011 standard by fulfilling key aspects of system development. The SRS captures requirements, meeting the standard's emphasis on defining project scope and objectives. The API Spec ensures adherence to interoperability standards by clearly defining interface specifications, in line with the standard's focus on system integration. Lastly, the DSAD facilitates deployment in accordance with the standard's requirement for effective system operation and maintenance planning. Together, they address fundamental aspects of system development outlined in the standard.
 
 - SRS (System Requirements Specification)
 
 - API Spec (Application Programming Interface Specification)
 
 - DSAD (Deployment Specification and Description)
+
+
 
 TEST - ISO/IEC/IEEE 29119-1
 RESULT - ISO/IEC/IEEE 29119-1
