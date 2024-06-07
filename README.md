@@ -11,7 +11,12 @@ These documents align with the ISO/IEC/IEEE 29148:2011 standard by fulfilling ke
 
 - DSAD (Deployment Specification and Description)
 
-
-
 TEST - ISO/IEC/IEEE 29119-1
+Unit Tests (UT) verify individual components' functionality in isolation, crucial for microservices' modular structure. Integration Tests (IT) validate interactions between microservices, ensuring seamless integration within the system. API Tests (API) guarantee the reliability of microservices' interfaces, vital for interoperability. Load Tests (LT) assess microservices' performance under varying workloads, essential for scalability. Lastly, Security Tests (ST) safeguard microservices against potential threats, aligning with the standard's emphasis on rigorous testing to ensure the quality and robustness of microservices.
+
+- Unit Tests (UT)
+- Integration Tests (IT)
+- API Tests (API)
+- Load Tests (LT)
+- Security Tests (ST)
 RESULT - ISO/IEC/IEEE 29119-1
