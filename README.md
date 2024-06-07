@@ -19,4 +19,8 @@ Unit Tests (UT) verify individual components' functionality in isolation, crucia
 - API Tests (API)
 - Load Tests (LT)
 - Security Tests (ST)
+  
 RESULT - ISO/IEC/IEEE 29119-1
+- Test Execution Report
+- Test Coverage Report
+- Defect Report
