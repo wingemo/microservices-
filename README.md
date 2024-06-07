@@ -1,3 +1,3 @@
 # microservices-
 
-DOC - ISO/IEC/IEEE 29148:2011
+DOC (SyRS, SRS) - ISO/IEC/IEEE 29148:2011
